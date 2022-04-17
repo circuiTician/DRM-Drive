@@ -1,4 +1,5 @@
 # DRM-Drive
+## [DRM Drive Video Tutorial] (https://youtu.be/gNMWmeMvBs4)
 ## Relay based DC Motor Driver with Dynamic Braking
 
 Better control of the robot can widen your path to victory. The engine of the robotic vehicle is mostly based on electric motors, especially DC or PMDC motors. In most cases, people use DPDT switches to control the direction of rotation of the PMDC motors for controlling the locomotion. But by only changing the rotational direction of motors you will not get any precise control. This means you cannot stop the vehicle at the desired position when you want because when the vehicle is moving that has inertia so that the vehicle will go further instead of stopping at that exact position. Besides this, the slopes create more problems in the tracks. The vehicles try to run freely on the slopes as they don’t have any brakes on them.
